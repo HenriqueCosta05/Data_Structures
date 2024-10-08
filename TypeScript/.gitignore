@@ -1,0 +1,5 @@
+# IDE
+/node_modules
+
+# Dist 
+/dist
